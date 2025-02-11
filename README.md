@@ -5,12 +5,10 @@ A simple and intuitive calculator built using HTML, CSS, and JavaScript. This ap
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -19,9 +17,6 @@ A simple and intuitive calculator built using HTML, CSS, and JavaScript. This ap
 - Responsive design for various screen sizes
 - User-friendly interface
 
-## Demo
-
-Experience the live demo of the calculator: [JavaScript Calculator Demo](https://souhail-dv.github.io/JS-Calculator/)
 
 ## Installation
 
@@ -81,7 +76,4 @@ Contributions are welcome! If you'd like to enhance this project, please follow 
 
 5. **Open a Pull Request** detailing your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
