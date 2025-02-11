@@ -19,7 +19,7 @@ A simple and intuitive calculator built using HTML, CSS, and JavaScript. This ap
 - User-friendly interface
   
 ## Demo
-Experience the live demo of the calculator: [JavaScript Calculator Demo](https://souhail-dv.github.io/JS-Calculator/)
+Experience the live demo of the calculator: [JavaScript Calculator Demo](https://souhail-dv.github.io/JS-CALCULATOR/)
 
 ## Installation
 
