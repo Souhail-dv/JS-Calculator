@@ -5,6 +5,7 @@ A simple and intuitive calculator built using HTML, CSS, and JavaScript. This ap
 ## Table of Contents
 
 - [Features](#features)
+- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
@@ -16,7 +17,9 @@ A simple and intuitive calculator built using HTML, CSS, and JavaScript. This ap
 - Clear button to reset the current calculation
 - Responsive design for various screen sizes
 - User-friendly interface
-
+  
+## Demo
+Experience the live demo of the calculator: [JavaScript Calculator Demo](https://souhail-dv.github.io/JS-Calculator/)
 
 ## Installation
 
